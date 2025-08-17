@@ -2,7 +2,7 @@ const fs = require("fs");
 const pdf = require("pdf-parse");
 const { InferenceClient } = require("@huggingface/inference");
 
-const hf = new InferenceClient("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");
+const hf = new InferenceClient("TOKEN");
 
 const extractTextFromPDF = async (filePath) => {
   try {

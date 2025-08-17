@@ -1,6 +1,6 @@
 const { InferenceClient } = require("@huggingface/inference");
 
-const hf = new InferenceClient("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");
+const hf = new InferenceClient("TOKEN");
 
 const text = "Let's use a hugging face AI model";
 
