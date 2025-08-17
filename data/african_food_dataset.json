@@ -1,0 +1,4129 @@
+[
+  {
+    "food_id": "africa_001",
+    "food_name": "Egusi Soup",
+    "food_description": "A Yoruba soup made with ground melon seeds, palm oil, leafy greens, and assorted proteins.",
+    "food_calories_per_serving": 393,
+    "food_nutritional_factors": {
+      "carbohydrates": "45g",
+      "protein": "12g",
+      "fat": "20g"
+    },
+    "food_ingredients": [
+      "Melon Seeds",
+      "Palm Oil",
+      "Leafy Greens",
+      "Assorted Meat",
+      "Crayfish",
+      "Seasoning"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins; rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Yoruba",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_002",
+    "food_name": "Efo Riro",
+    "food_description": "Spinach stew with tomatoes, peppers, palm oil, and assorted proteins.",
+    "food_calories_per_serving": 382,
+    "food_nutritional_factors": {
+      "carbohydrates": "66g",
+      "protein": "9g",
+      "fat": "10g"
+    },
+    "food_ingredients": [
+      "Spinach",
+      "Tomatoes",
+      "Red Peppers",
+      "Palm Oil",
+      "Fish or Meat",
+      "Onions"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins; rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Yoruba",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_003",
+    "food_name": "Asaro (Yam Porridge)",
+    "food_description": "Mashed yam cooked in pepper sauce with palm oil and spices.",
+    "food_calories_per_serving": 437,
+    "food_nutritional_factors": {
+      "carbohydrates": "59g",
+      "protein": "11g",
+      "fat": "19g"
+    },
+    "food_ingredients": [
+      "Yam",
+      "Palm Oil",
+      "Tomatoes",
+      "Peppers",
+      "Onions",
+      "Seasoning"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Yoruba",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_004",
+    "food_name": "Ofada Stew (Ayamase)",
+    "food_description": "Green pepper sauce with palm oil, iru, and assorted meats, served with ofada rice.",
+    "food_calories_per_serving": 482,
+    "food_nutritional_factors": {
+      "carbohydrates": "62g",
+      "protein": "9g",
+      "fat": "24g"
+    },
+    "food_ingredients": [
+      "Green Peppers",
+      "Palm Oil",
+      "Locust Beans",
+      "Assorted Meat",
+      "Onions"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Yoruba",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_005",
+    "food_name": "Gbegiri",
+    "food_description": "Velvety bean soup made from peeled black-eyed peas, often paired with ewedu and stew.",
+    "food_calories_per_serving": 270,
+    "food_nutritional_factors": {
+      "carbohydrates": "38g",
+      "protein": "9g",
+      "fat": "10g"
+    },
+    "food_ingredients": [
+      "Black-eyed Peas",
+      "Palm Oil",
+      "Crayfish",
+      "Seasoning"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber; provides fat-soluble vitamins",
+    "cooking_method": "Boiling",
+    "cuisine_type": "Yoruba",
+    "food_features": {
+      "taste": "light and savory",
+      "texture": "soft and brothy",
+      "appearance": "clear or lightly colored",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_006",
+    "food_name": "Ewedu Soup",
+    "food_description": "Jute leaf soup blended and simmered with spices; commonly served with amala.",
+    "food_calories_per_serving": 374,
+    "food_nutritional_factors": {
+      "carbohydrates": "52g",
+      "protein": "21g",
+      "fat": "10g"
+    },
+    "food_ingredients": [
+      "Jute Leaves",
+      "Crayfish",
+      "Seasoning",
+      "Locust Beans"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Boiling",
+    "cuisine_type": "Yoruba",
+    "food_features": {
+      "taste": "light and savory",
+      "texture": "soft and brothy",
+      "appearance": "clear or lightly colored",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_007",
+    "food_name": "Ofe Nsala (White Soup)",
+    "food_description": "Light soup made with fresh fish, yam, and spices, without palm oil.",
+    "food_calories_per_serving": 407,
+    "food_nutritional_factors": {
+      "carbohydrates": "40g",
+      "protein": "10g",
+      "fat": "25g"
+    },
+    "food_ingredients": [
+      "Catfish",
+      "Yam",
+      "Uziza",
+      "Crayfish",
+      "Seasoning"
+    ],
+    "food_health_benefits": "Source of omega-3 fatty acids",
+    "cooking_method": "Boiling",
+    "cuisine_type": "Igbo",
+    "food_features": {
+      "taste": "light and savory",
+      "texture": "soft and brothy",
+      "appearance": "clear or lightly colored",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_008",
+    "food_name": "Ofe Oha",
+    "food_description": "Rich soup prepared with oha leaves, cocoyam, and palm oil.",
+    "food_calories_per_serving": 459,
+    "food_nutritional_factors": {
+      "carbohydrates": "52g",
+      "protein": "9g",
+      "fat": "26g"
+    },
+    "food_ingredients": [
+      "Oha Leaves",
+      "Cocoyam",
+      "Palm Oil",
+      "Meat or Fish",
+      "Crayfish"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Igbo",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_009",
+    "food_name": "Ofe Akwu (Banga Stew)",
+    "food_description": "Palm fruit stew cooked with spices and proteins.",
+    "food_calories_per_serving": 419,
+    "food_nutritional_factors": {
+      "carbohydrates": "32g",
+      "protein": "15g",
+      "fat": "28g"
+    },
+    "food_ingredients": [
+      "Palm Fruit Extract",
+      "Beef or Fish",
+      "Spices",
+      "Onions"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Igbo",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_010",
+    "food_name": "Ukwa (Breadfruit Porridge)",
+    "food_description": "Hearty breadfruit porridge simmered with spices and palm oil.",
+    "food_calories_per_serving": 438,
+    "food_nutritional_factors": {
+      "carbohydrates": "65g",
+      "protein": "26g",
+      "fat": "9g"
+    },
+    "food_ingredients": [
+      "Breadfruit",
+      "Palm Oil",
+      "Crayfish",
+      "Seasoning",
+      "Pepper"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Boiling",
+    "cuisine_type": "Igbo",
+    "food_features": {
+      "taste": "light and savory",
+      "texture": "soft and brothy",
+      "appearance": "clear or lightly colored",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_011",
+    "food_name": "Miyan Kuka",
+    "food_description": "Soup made from baobab leaf powder, spices, and proteins.",
+    "food_calories_per_serving": 513,
+    "food_nutritional_factors": {
+      "carbohydrates": "61g",
+      "protein": "26g",
+      "fat": "20g"
+    },
+    "food_ingredients": [
+      "Baobab Leaves",
+      "Beef",
+      "Dawadawa",
+      "Palm Oil",
+      "Spices"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Hausa",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_012",
+    "food_name": "Tuwo Shinkafa with Miyan Taushe",
+    "food_description": "Soft rice swallow served with pumpkin-based soup.",
+    "food_calories_per_serving": 246,
+    "food_nutritional_factors": {
+      "carbohydrates": "28g",
+      "protein": "15g",
+      "fat": "9g"
+    },
+    "food_ingredients": [
+      "Rice",
+      "Pumpkin",
+      "Peanuts",
+      "Palm Oil",
+      "Spices"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber; provides fat-soluble vitamins",
+    "cooking_method": "Boiling",
+    "cuisine_type": "Hausa",
+    "food_features": {
+      "taste": "light and savory",
+      "texture": "soft and brothy",
+      "appearance": "clear or lightly colored",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_013",
+    "food_name": "Suya",
+    "food_description": "Street-style spiced grilled meat skewers with yaji spice.",
+    "food_calories_per_serving": 479,
+    "food_nutritional_factors": {
+      "carbohydrates": "60g",
+      "protein": "35g",
+      "fat": "12g"
+    },
+    "food_ingredients": [
+      "Beef",
+      "Yaji Spice",
+      "Onions",
+      "Groundnut Oil"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Grilling",
+    "cuisine_type": "Hausa",
+    "food_features": {
+      "taste": "smoky and savory",
+      "texture": "tender with char",
+      "appearance": "browned and glistening",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_014",
+    "food_name": "Fura da Nono",
+    "food_description": "Millet balls served in fermented cow milk (nono).",
+    "food_calories_per_serving": 355,
+    "food_nutritional_factors": {
+      "carbohydrates": "43g",
+      "protein": "21g",
+      "fat": "12g"
+    },
+    "food_ingredients": [
+      "Millet",
+      "Fermented Milk",
+      "Sugar"
+    ],
+    "food_health_benefits": "Gluten-free grains and iron rich",
+    "cooking_method": "Boiling",
+    "cuisine_type": "Fulani",
+    "food_features": {
+      "taste": "light and savory",
+      "texture": "soft and brothy",
+      "appearance": "clear or lightly colored",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_015",
+    "food_name": "Edikang Ikong",
+    "food_description": "Leafy soup loaded with pumpkin and waterleaf with assorted proteins.",
+    "food_calories_per_serving": 495,
+    "food_nutritional_factors": {
+      "carbohydrates": "59g",
+      "protein": "11g",
+      "fat": "26g"
+    },
+    "food_ingredients": [
+      "Pumpkin Leaves",
+      "Waterleaf",
+      "Palm Oil",
+      "Assorted Meat",
+      "Crayfish"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins; rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Efik",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_016",
+    "food_name": "Afang Soup",
+    "food_description": "Delicate soup made with afang (okazi) and waterleaf.",
+    "food_calories_per_serving": 383,
+    "food_nutritional_factors": {
+      "carbohydrates": "44g",
+      "protein": "25g",
+      "fat": "13g"
+    },
+    "food_ingredients": [
+      "Okazi Leaves",
+      "Waterleaf",
+      "Palm Oil",
+      "Periwinkle",
+      "Crayfish"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins; rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Efik",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_017",
+    "food_name": "Ukodo (Plantain/Yam Pepper Soup)",
+    "food_description": "Pepper soup with yam or plantain and assorted proteins.",
+    "food_calories_per_serving": 443,
+    "food_nutritional_factors": {
+      "carbohydrates": "31g",
+      "protein": "26g",
+      "fat": "26g"
+    },
+    "food_ingredients": [
+      "Yam or Plantain",
+      "Pepper Soup Spice",
+      "Fish or Meat"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Boiling",
+    "cuisine_type": "Urhobo",
+    "food_features": {
+      "taste": "light and savory",
+      "texture": "soft and brothy",
+      "appearance": "clear or lightly colored",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_018",
+    "food_name": "Banga Soup",
+    "food_description": "Palm fruit soup with fresh spices and seafood/meat.",
+    "food_calories_per_serving": 473,
+    "food_nutritional_factors": {
+      "carbohydrates": "65g",
+      "protein": "14g",
+      "fat": "19g"
+    },
+    "food_ingredients": [
+      "Palm Fruit Extract",
+      "Spices",
+      "Seafood",
+      "Beef"
+    ],
+    "food_health_benefits": "Source of omega-3 fatty acids",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Itsekiri",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_019",
+    "food_name": "Fisherman Soup",
+    "food_description": "Seafood-rich spicy soup common in the Niger Delta.",
+    "food_calories_per_serving": 306,
+    "food_nutritional_factors": {
+      "carbohydrates": "31g",
+      "protein": "25g",
+      "fat": "10g"
+    },
+    "food_ingredients": [
+      "Crab",
+      "Prawn",
+      "Fish",
+      "Palm Oil",
+      "Pepper"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins; source of omega-3 fatty acids",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Ijaw",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_020",
+    "food_name": "Black Soup (Omoebe)",
+    "food_description": "Dark herbal soup made from ground bitter leaves and scent leaves.",
+    "food_calories_per_serving": 503,
+    "food_nutritional_factors": {
+      "carbohydrates": "61g",
+      "protein": "9g",
+      "fat": "27g"
+    },
+    "food_ingredients": [
+      "Bitter Leaves",
+      "Scent Leaves",
+      "Palm Oil",
+      "Meat/Fish"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Edo",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_021",
+    "food_name": "Genger (Sesame Soup)",
+    "food_description": "Nutty soup thickened with ground sesame seeds.",
+    "food_calories_per_serving": 451,
+    "food_nutritional_factors": {
+      "carbohydrates": "38g",
+      "protein": "23g",
+      "fat": "25g"
+    },
+    "food_ingredients": [
+      "Sesame Seeds",
+      "Palm Oil",
+      "Meat",
+      "Crayfish"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Tiv",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_022",
+    "food_name": "Okoho Soup",
+    "food_description": "Traditional slimy soup made from snake gourd stems.",
+    "food_calories_per_serving": 485,
+    "food_nutritional_factors": {
+      "carbohydrates": "52g",
+      "protein": "32g",
+      "fat": "18g"
+    },
+    "food_ingredients": [
+      "Okoho Stems",
+      "Meat",
+      "Pepper",
+      "Seasoning"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Boiling",
+    "cuisine_type": "Idoma",
+    "food_features": {
+      "taste": "light and savory",
+      "texture": "soft and brothy",
+      "appearance": "clear or lightly colored",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_023",
+    "food_name": "Miyan Karkashi",
+    "food_description": "Soup made with karkashi leaves and local spices.",
+    "food_calories_per_serving": 502,
+    "food_nutritional_factors": {
+      "carbohydrates": "54g",
+      "protein": "26g",
+      "fat": "22g"
+    },
+    "food_ingredients": [
+      "Karkashi Leaves",
+      "Meat",
+      "Spices",
+      "Palm Oil"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Kanuri",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_024",
+    "food_name": "Miyan Girka",
+    "food_description": "Savory soup with local leaves and thickener.",
+    "food_calories_per_serving": 384,
+    "food_nutritional_factors": {
+      "carbohydrates": "48g",
+      "protein": "17g",
+      "fat": "15g"
+    },
+    "food_ingredients": [
+      "Local Greens",
+      "Meat",
+      "Palm Oil",
+      "Seasoning"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Nupe",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_025",
+    "food_name": "Dambu Nama",
+    "food_description": "Shredded spiced dried meat snack served with relishes.",
+    "food_calories_per_serving": 476,
+    "food_nutritional_factors": {
+      "carbohydrates": "75g",
+      "protein": "13g",
+      "fat": "15g"
+    },
+    "food_ingredients": [
+      "Beef",
+      "Spices",
+      "Groundnut Oil"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Frying",
+    "cuisine_type": "Gbagyi",
+    "food_features": {
+      "taste": "crispy and savory",
+      "texture": "crunchy exterior",
+      "appearance": "golden and crisp",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_026",
+    "food_name": "Tanfiria (Potato Stew)",
+    "food_description": "Plateau-style stew with potatoes and peppers.",
+    "food_calories_per_serving": 364,
+    "food_nutritional_factors": {
+      "carbohydrates": "30g",
+      "protein": "26g",
+      "fat": "17g"
+    },
+    "food_ingredients": [
+      "Potatoes",
+      "Tomatoes",
+      "Peppers",
+      "Beef"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Berom",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_027",
+    "food_name": "Afang Soup",
+    "food_description": "Okazi and waterleaf soup with seafood/meat.",
+    "food_calories_per_serving": 473,
+    "food_nutritional_factors": {
+      "carbohydrates": "58g",
+      "protein": "23g",
+      "fat": "18g"
+    },
+    "food_ingredients": [
+      "Okazi Leaves",
+      "Waterleaf",
+      "Palm Oil",
+      "Crayfish"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins; rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Ibibio",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_028",
+    "food_name": "Waakye",
+    "food_description": "Rice and beans cooked with waakye leaves, served with sides.",
+    "food_calories_per_serving": 512,
+    "food_nutritional_factors": {
+      "carbohydrates": "71g",
+      "protein": "22g",
+      "fat": "17g"
+    },
+    "food_ingredients": [
+      "Rice",
+      "Black-eyed Peas",
+      "Waakye Leaves",
+      "Spices"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber",
+    "cooking_method": "Boiling",
+    "cuisine_type": "Ghanaian",
+    "food_features": {
+      "taste": "light and savory",
+      "texture": "soft and brothy",
+      "appearance": "clear or lightly colored",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_029",
+    "food_name": "Banku with Tilapia",
+    "food_description": "Fermented corn-cassava dough served with grilled tilapia and pepper sauce.",
+    "food_calories_per_serving": 383,
+    "food_nutritional_factors": {
+      "carbohydrates": "63g",
+      "protein": "10g",
+      "fat": "11g"
+    },
+    "food_ingredients": [
+      "Corn Dough",
+      "Cassava Dough",
+      "Tilapia",
+      "Pepper Sauce"
+    ],
+    "food_health_benefits": "Source of omega-3 fatty acids",
+    "cooking_method": "Grilling",
+    "cuisine_type": "Ghanaian",
+    "food_features": {
+      "taste": "smoky and savory",
+      "texture": "tender with char",
+      "appearance": "browned and glistening",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_030",
+    "food_name": "Kelewele",
+    "food_description": "Spiced fried plantains with ginger, chili, and cloves.",
+    "food_calories_per_serving": 419,
+    "food_nutritional_factors": {
+      "carbohydrates": "57g",
+      "protein": "21g",
+      "fat": "13g"
+    },
+    "food_ingredients": [
+      "Plantain",
+      "Ginger",
+      "Chili",
+      "Cloves",
+      "Oil"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Frying",
+    "cuisine_type": "Ghanaian",
+    "food_features": {
+      "taste": "crispy and savory",
+      "texture": "crunchy exterior",
+      "appearance": "golden and crisp",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_031",
+    "food_name": "Thieboudienne",
+    "food_description": "Jollof-style rice with fish and vegetables; national dish of Senegal.",
+    "food_calories_per_serving": 463,
+    "food_nutritional_factors": {
+      "carbohydrates": "73g",
+      "protein": "18g",
+      "fat": "12g"
+    },
+    "food_ingredients": [
+      "Rice",
+      "Fish",
+      "Tomato",
+      "Carrots",
+      "Cassava"
+    ],
+    "food_health_benefits": "Source of omega-3 fatty acids",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Senegalese",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_032",
+    "food_name": "Domoda (Peanut Stew)",
+    "food_description": "Groundnut-based stew with meat and vegetables.",
+    "food_calories_per_serving": 382,
+    "food_nutritional_factors": {
+      "carbohydrates": "56g",
+      "protein": "21g",
+      "fat": "9g"
+    },
+    "food_ingredients": [
+      "Peanuts",
+      "Tomato",
+      "Beef",
+      "Onions"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Gambian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_033",
+    "food_name": "Plasas",
+    "food_description": "Leafy green stew made with potato leaves or spinach and palm oil.",
+    "food_calories_per_serving": 515,
+    "food_nutritional_factors": {
+      "carbohydrates": "67g",
+      "protein": "10g",
+      "fat": "25g"
+    },
+    "food_ingredients": [
+      "Potato Leaves",
+      "Palm Oil",
+      "Fish/Meat",
+      "Spices"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Sierra Leonean",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_034",
+    "food_name": "Jollof Rice",
+    "food_description": "Tomato-pepper rice with spices and proteins.",
+    "food_calories_per_serving": 525,
+    "food_nutritional_factors": {
+      "carbohydrates": "61g",
+      "protein": "33g",
+      "fat": "18g"
+    },
+    "food_ingredients": [
+      "Rice",
+      "Tomatoes",
+      "Peppers",
+      "Spices"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Liberian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_035",
+    "food_name": "Attiéké with Grilled Fish",
+    "food_description": "Cassava couscous served with grilled fish and pepper relish.",
+    "food_calories_per_serving": 461,
+    "food_nutritional_factors": {
+      "carbohydrates": "46g",
+      "protein": "30g",
+      "fat": "19g"
+    },
+    "food_ingredients": [
+      "Attiéké",
+      "Fish",
+      "Onions",
+      "Pepper Relish"
+    ],
+    "food_health_benefits": "Source of omega-3 fatty acids",
+    "cooking_method": "Grilling",
+    "cuisine_type": "Ivorian",
+    "food_features": {
+      "taste": "smoky and savory",
+      "texture": "tender with char",
+      "appearance": "browned and glistening",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_036",
+    "food_name": "Pâte Rouge",
+    "food_description": "Cornmeal paste served with red palm oil sauce.",
+    "food_calories_per_serving": 559,
+    "food_nutritional_factors": {
+      "carbohydrates": "63g",
+      "protein": "23g",
+      "fat": "26g"
+    },
+    "food_ingredients": [
+      "Cornmeal",
+      "Palm Oil",
+      "Tomato",
+      "Spices"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Beninese",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_037",
+    "food_name": "Akume with Sauce",
+    "food_description": "Cornmeal swallow served with spicy tomato or garden-egg sauce.",
+    "food_calories_per_serving": 338,
+    "food_nutritional_factors": {
+      "carbohydrates": "54g",
+      "protein": "10g",
+      "fat": "10g"
+    },
+    "food_ingredients": [
+      "Cornmeal",
+      "Tomato",
+      "Garden Egg",
+      "Palm Oil"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Togolese",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_038",
+    "food_name": "Yassa Poulet",
+    "food_description": "Chicken marinated in lemon-onion sauce, then grilled and stewed.",
+    "food_calories_per_serving": 342,
+    "food_nutritional_factors": {
+      "carbohydrates": "42g",
+      "protein": "23g",
+      "fat": "10g"
+    },
+    "food_ingredients": [
+      "Chicken",
+      "Lemon",
+      "Onions",
+      "Mustard"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Grilling",
+    "cuisine_type": "Guinean",
+    "food_features": {
+      "taste": "smoky and savory",
+      "texture": "tender with char",
+      "appearance": "browned and glistening",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_039",
+    "food_name": "Cachupa",
+    "food_description": "Slow-cooked stew of hominy, beans, vegetables, and meats.",
+    "food_calories_per_serving": 376,
+    "food_nutritional_factors": {
+      "carbohydrates": "28g",
+      "protein": "31g",
+      "fat": "17g"
+    },
+    "food_ingredients": [
+      "Hominy",
+      "Beans",
+      "Pork/Chicken",
+      "Cabbage"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Cape Verdean",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_040",
+    "food_name": "Ndolé",
+    "food_description": "Bitterleaf stew with peanuts and shrimp/beef.",
+    "food_calories_per_serving": 550,
+    "food_nutritional_factors": {
+      "carbohydrates": "66g",
+      "protein": "26g",
+      "fat": "22g"
+    },
+    "food_ingredients": [
+      "Bitterleaf",
+      "Peanuts",
+      "Shrimp",
+      "Palm Oil"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber; provides fat-soluble vitamins; rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Cameroonian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_041",
+    "food_name": "Pondu (Saka Saka)",
+    "food_description": "Cassava leaves stew with palm oil and fish or meat.",
+    "food_calories_per_serving": 457,
+    "food_nutritional_factors": {
+      "carbohydrates": "43g",
+      "protein": "30g",
+      "fat": "20g"
+    },
+    "food_ingredients": [
+      "Cassava Leaves",
+      "Palm Oil",
+      "Fish/Meat",
+      "Onions"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins; rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Congolese",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_042",
+    "food_name": "Poulet Nyembwe",
+    "food_description": "Chicken stew with palm nut sauce.",
+    "food_calories_per_serving": 410,
+    "food_nutritional_factors": {
+      "carbohydrates": "67g",
+      "protein": "19g",
+      "fat": "8g"
+    },
+    "food_ingredients": [
+      "Chicken",
+      "Palm Nuts",
+      "Onions",
+      "Spices"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Gabonese",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_043",
+    "food_name": "Moamba de Galinha",
+    "food_description": "Chicken in palm oil and okra sauce, served with funge.",
+    "food_calories_per_serving": 399,
+    "food_nutritional_factors": {
+      "carbohydrates": "54g",
+      "protein": "19g",
+      "fat": "13g"
+    },
+    "food_ingredients": [
+      "Chicken",
+      "Palm Oil",
+      "Okra",
+      "Garlic"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Angolan",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_044",
+    "food_name": "Jarret de Boeuf Sauce Gombo",
+    "food_description": "Okra beef stew served with boule.",
+    "food_calories_per_serving": 490,
+    "food_nutritional_factors": {
+      "carbohydrates": "64g",
+      "protein": "11g",
+      "fat": "23g"
+    },
+    "food_ingredients": [
+      "Beef",
+      "Okra",
+      "Tomato",
+      "Spices"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Chadian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_045",
+    "food_name": "Kanda Ti Nyma",
+    "food_description": "Peanut meatballs simmered in tomato-peanut sauce.",
+    "food_calories_per_serving": 308,
+    "food_nutritional_factors": {
+      "carbohydrates": "28g",
+      "protein": "14g",
+      "fat": "17g"
+    },
+    "food_ingredients": [
+      "Peanuts",
+      "Beef",
+      "Tomato",
+      "Onions"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber",
+    "cooking_method": "Stewing",
+    "cuisine_type": "CAR",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_046",
+    "food_name": "Isombe",
+    "food_description": "Cassava leaves cooked with peanut butter and spices.",
+    "food_calories_per_serving": 380,
+    "food_nutritional_factors": {
+      "carbohydrates": "33g",
+      "protein": "31g",
+      "fat": "15g"
+    },
+    "food_ingredients": [
+      "Cassava Leaves",
+      "Peanut Butter",
+      "Onions"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber; rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Rwandan",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_047",
+    "food_name": "Mukeke with Ugali",
+    "food_description": "Lake Tanganyika fish (mukeke) grilled and served with ugali.",
+    "food_calories_per_serving": 470,
+    "food_nutritional_factors": {
+      "carbohydrates": "50g",
+      "protein": "20g",
+      "fat": "23g"
+    },
+    "food_ingredients": [
+      "Fish",
+      "Maize Flour",
+      "Spices"
+    ],
+    "food_health_benefits": "Source of omega-3 fatty acids",
+    "cooking_method": "Grilling",
+    "cuisine_type": "Burundian",
+    "food_features": {
+      "taste": "smoky and savory",
+      "texture": "tender with char",
+      "appearance": "browned and glistening",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_048",
+    "food_name": "Sopa de Pescado",
+    "food_description": "Fish soup with local spices and vegetables.",
+    "food_calories_per_serving": 354,
+    "food_nutritional_factors": {
+      "carbohydrates": "30g",
+      "protein": "13g",
+      "fat": "22g"
+    },
+    "food_ingredients": [
+      "Fish",
+      "Tomato",
+      "Onions",
+      "Spices"
+    ],
+    "food_health_benefits": "Source of omega-3 fatty acids",
+    "cooking_method": "Boiling",
+    "cuisine_type": "Equatorial Guinean",
+    "food_features": {
+      "taste": "light and savory",
+      "texture": "soft and brothy",
+      "appearance": "clear or lightly colored",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_049",
+    "food_name": "Doro Wat",
+    "food_description": "Spicy chicken stew seasoned with berbere and niter kibbeh.",
+    "food_calories_per_serving": 432,
+    "food_nutritional_factors": {
+      "carbohydrates": "50g",
+      "protein": "25g",
+      "fat": "16g"
+    },
+    "food_ingredients": [
+      "Chicken",
+      "Berbere",
+      "Onions",
+      "Niter Kibbeh"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Ethiopian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_050",
+    "food_name": "Shiro",
+    "food_description": "Chickpea flour stew simmered with spices; served with injera.",
+    "food_calories_per_serving": 441,
+    "food_nutritional_factors": {
+      "carbohydrates": "33g",
+      "protein": "34g",
+      "fat": "21g"
+    },
+    "food_ingredients": [
+      "Chickpea Flour",
+      "Onions",
+      "Spices",
+      "Oil"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Ethiopian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_051",
+    "food_name": "Zigni",
+    "food_description": "Spicy beef stew served with injera.",
+    "food_calories_per_serving": 477,
+    "food_nutritional_factors": {
+      "carbohydrates": "60g",
+      "protein": "16g",
+      "fat": "21g"
+    },
+    "food_ingredients": [
+      "Beef",
+      "Berbere",
+      "Tomato",
+      "Onions"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Eritrean",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_052",
+    "food_name": "Bariis Iskukaris",
+    "food_description": "Somali-style spiced rice often served with meat.",
+    "food_calories_per_serving": 469,
+    "food_nutritional_factors": {
+      "carbohydrates": "47g",
+      "protein": "29g",
+      "fat": "20g"
+    },
+    "food_ingredients": [
+      "Rice",
+      "Xawaash Spice",
+      "Raisins",
+      "Meat"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Somali",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_053",
+    "food_name": "Nyama Choma",
+    "food_description": "Grilled goat or beef served with kachumbari.",
+    "food_calories_per_serving": 286,
+    "food_nutritional_factors": {
+      "carbohydrates": "39g",
+      "protein": "12g",
+      "fat": "10g"
+    },
+    "food_ingredients": [
+      "Goat or Beef",
+      "Salt",
+      "Lime",
+      "Onions"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Grilling",
+    "cuisine_type": "Kenyan",
+    "food_features": {
+      "taste": "smoky and savory",
+      "texture": "tender with char",
+      "appearance": "browned and glistening",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_054",
+    "food_name": "Githeri",
+    "food_description": "Stewed maize and beans staple.",
+    "food_calories_per_serving": 316,
+    "food_nutritional_factors": {
+      "carbohydrates": "36g",
+      "protein": "12g",
+      "fat": "15g"
+    },
+    "food_ingredients": [
+      "Maize",
+      "Beans",
+      "Tomato",
+      "Onions"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber",
+    "cooking_method": "Boiling",
+    "cuisine_type": "Kenyan",
+    "food_features": {
+      "taste": "light and savory",
+      "texture": "soft and brothy",
+      "appearance": "clear or lightly colored",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_055",
+    "food_name": "Zanzibar Biryani",
+    "food_description": "Fragrant spiced rice with meat or fish.",
+    "food_calories_per_serving": 394,
+    "food_nutritional_factors": {
+      "carbohydrates": "67g",
+      "protein": "15g",
+      "fat": "8g"
+    },
+    "food_ingredients": [
+      "Rice",
+      "Spices",
+      "Chicken or Fish",
+      "Yogurt"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Tanzanian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_056",
+    "food_name": "Luwombo",
+    "food_description": "Stew steamed in banana leaves, often chicken or beef.",
+    "food_calories_per_serving": 575,
+    "food_nutritional_factors": {
+      "carbohydrates": "56g",
+      "protein": "34g",
+      "fat": "26g"
+    },
+    "food_ingredients": [
+      "Chicken",
+      "Peanut",
+      "Banana Leaves",
+      "Spices"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Steaming",
+    "cuisine_type": "Ugandan",
+    "food_features": {
+      "taste": "delicate and savory",
+      "texture": "soft and moist",
+      "appearance": "pale and tender",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_057",
+    "food_name": "Kisra with Mullah",
+    "food_description": "Sorghum flatbread with rich meat/okra stew.",
+    "food_calories_per_serving": 348,
+    "food_nutritional_factors": {
+      "carbohydrates": "36g",
+      "protein": "16g",
+      "fat": "17g"
+    },
+    "food_ingredients": [
+      "Sorghum",
+      "Okra",
+      "Meat",
+      "Spices"
+    ],
+    "food_health_benefits": "Gluten-free grains and iron rich",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Sudanese",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_058",
+    "food_name": "Ful Medames",
+    "food_description": "Stewed fava beans with lemon and chili.",
+    "food_calories_per_serving": 321,
+    "food_nutritional_factors": {
+      "carbohydrates": "25g",
+      "protein": "12g",
+      "fat": "21g"
+    },
+    "food_ingredients": [
+      "Fava Beans",
+      "Lemon",
+      "Garlic",
+      "Chili"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Boiling",
+    "cuisine_type": "South Sudanese",
+    "food_features": {
+      "taste": "light and savory",
+      "texture": "soft and brothy",
+      "appearance": "clear or lightly colored",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_059",
+    "food_name": "Kitfo",
+    "food_description": "Ethiopian minced beef seasoned with mitmita (usually lightly cooked).",
+    "food_calories_per_serving": 535,
+    "food_nutritional_factors": {
+      "carbohydrates": "59g",
+      "protein": "19g",
+      "fat": "27g"
+    },
+    "food_ingredients": [
+      "Beef",
+      "Mitmita",
+      "Niter Kibbeh"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Sautéing",
+    "cuisine_type": "Ethiopian",
+    "food_features": {
+      "taste": "umami and aromatic",
+      "texture": "tender-crisp",
+      "appearance": "glossy and colorful",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_060",
+    "food_name": "Chicken Tagine with Preserved Lemon",
+    "food_description": "Slow-cooked tagine with olives and preserved lemons.",
+    "food_calories_per_serving": 415,
+    "food_nutritional_factors": {
+      "carbohydrates": "61g",
+      "protein": "18g",
+      "fat": "12g"
+    },
+    "food_ingredients": [
+      "Chicken",
+      "Preserved Lemons",
+      "Olives",
+      "Spices"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Moroccan",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_061",
+    "food_name": "Couscous Tfaya",
+    "food_description": "Couscous topped with caramelized onions and raisins, served with stew.",
+    "food_calories_per_serving": 614,
+    "food_nutritional_factors": {
+      "carbohydrates": "69g",
+      "protein": "35g",
+      "fat": "24g"
+    },
+    "food_ingredients": [
+      "Couscous",
+      "Onions",
+      "Raisins",
+      "Chickpeas"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber",
+    "cooking_method": "Steaming",
+    "cuisine_type": "Moroccan",
+    "food_features": {
+      "taste": "delicate and savory",
+      "texture": "soft and moist",
+      "appearance": "pale and tender",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_062",
+    "food_name": "Chakhchoukha",
+    "food_description": "Shredded flatbread soaked in spicy tomato stew.",
+    "food_calories_per_serving": 442,
+    "food_nutritional_factors": {
+      "carbohydrates": "64g",
+      "protein": "28g",
+      "fat": "9g"
+    },
+    "food_ingredients": [
+      "Flatbread",
+      "Tomato",
+      "Lamb",
+      "Spices"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Algerian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_063",
+    "food_name": "Brik",
+    "food_description": "Crispy pastry filled with egg and tuna, deep-fried.",
+    "food_calories_per_serving": 563,
+    "food_nutritional_factors": {
+      "carbohydrates": "54g",
+      "protein": "35g",
+      "fat": "25g"
+    },
+    "food_ingredients": [
+      "Malsouka Pastry",
+      "Egg",
+      "Tuna",
+      "Capers"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Frying",
+    "cuisine_type": "Tunisian",
+    "food_features": {
+      "taste": "crispy and savory",
+      "texture": "crunchy exterior",
+      "appearance": "golden and crisp",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_064",
+    "food_name": "Asida",
+    "food_description": "Wheat dough served with honey or meat sauce.",
+    "food_calories_per_serving": 445,
+    "food_nutritional_factors": {
+      "carbohydrates": "50g",
+      "protein": "20g",
+      "fat": "20g"
+    },
+    "food_ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Honey or Sauce"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Boiling",
+    "cuisine_type": "Libyan",
+    "food_features": {
+      "taste": "light and savory",
+      "texture": "soft and brothy",
+      "appearance": "clear or lightly colored",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_065",
+    "food_name": "Koshari",
+    "food_description": "Rice, lentils, pasta topped with spicy tomato sauce and crispy onions.",
+    "food_calories_per_serving": 434,
+    "food_nutritional_factors": {
+      "carbohydrates": "50g",
+      "protein": "11g",
+      "fat": "23g"
+    },
+    "food_ingredients": [
+      "Rice",
+      "Lentils",
+      "Pasta",
+      "Tomato",
+      "Onions"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber",
+    "cooking_method": "Boiling",
+    "cuisine_type": "Egyptian",
+    "food_features": {
+      "taste": "light and savory",
+      "texture": "soft and brothy",
+      "appearance": "clear or lightly colored",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_066",
+    "food_name": "Molokhia",
+    "food_description": "Jute leaf soup with garlic and coriander, served with rice.",
+    "food_calories_per_serving": 414,
+    "food_nutritional_factors": {
+      "carbohydrates": "65g",
+      "protein": "20g",
+      "fat": "9g"
+    },
+    "food_ingredients": [
+      "Molokhia Leaves",
+      "Garlic",
+      "Coriander",
+      "Chicken Stock"
+    ],
+    "food_health_benefits": "Rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Egyptian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_067",
+    "food_name": "Thiebou Yapp",
+    "food_description": "Rice cooked with beef and vegetables.",
+    "food_calories_per_serving": 303,
+    "food_nutritional_factors": {
+      "carbohydrates": "37g",
+      "protein": "10g",
+      "fat": "14g"
+    },
+    "food_ingredients": [
+      "Rice",
+      "Beef",
+      "Carrots",
+      "Spices"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Mauritanian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_068",
+    "food_name": "Couscous with Camel Meat",
+    "food_description": "Couscous served with slow-cooked camel meat and vegetables.",
+    "food_calories_per_serving": 355,
+    "food_nutritional_factors": {
+      "carbohydrates": "53g",
+      "protein": "13g",
+      "fat": "11g"
+    },
+    "food_ingredients": [
+      "Couscous",
+      "Camel Meat",
+      "Carrots",
+      "Spices"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Steaming",
+    "cuisine_type": "Sahrawi",
+    "food_features": {
+      "taste": "delicate and savory",
+      "texture": "soft and moist",
+      "appearance": "pale and tender",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_069",
+    "food_name": "Bobotie",
+    "food_description": "Spiced minced meat baked with egg custard topping.",
+    "food_calories_per_serving": 366,
+    "food_nutritional_factors": {
+      "carbohydrates": "46g",
+      "protein": "27g",
+      "fat": "9g"
+    },
+    "food_ingredients": [
+      "Beef",
+      "Curry Powder",
+      "Eggs",
+      "Bread"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Baking",
+    "cuisine_type": "South African",
+    "food_features": {
+      "taste": "savory and aromatic",
+      "texture": "soft inside, crisp outside",
+      "appearance": "golden brown",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_070",
+    "food_name": "Bunny Chow",
+    "food_description": "Hollowed bread filled with spicy curry.",
+    "food_calories_per_serving": 371,
+    "food_nutritional_factors": {
+      "carbohydrates": "31g",
+      "protein": "8g",
+      "fat": "26g"
+    },
+    "food_ingredients": [
+      "Bread",
+      "Chicken or Beans",
+      "Curry Sauce"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "South African",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_071",
+    "food_name": "Chakalaka",
+    "food_description": "Spicy vegetable relish often served with pap.",
+    "food_calories_per_serving": 327,
+    "food_nutritional_factors": {
+      "carbohydrates": "34g",
+      "protein": "25g",
+      "fat": "11g"
+    },
+    "food_ingredients": [
+      "Cabbage",
+      "Carrots",
+      "Tomatoes",
+      "Chili"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Sautéing",
+    "cuisine_type": "South African",
+    "food_features": {
+      "taste": "umami and aromatic",
+      "texture": "tender-crisp",
+      "appearance": "glossy and colorful",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_072",
+    "food_name": "Sadza with Beef Stew",
+    "food_description": "Maize meal with savory beef and vegetable stew.",
+    "food_calories_per_serving": 366,
+    "food_nutritional_factors": {
+      "carbohydrates": "48g",
+      "protein": "27g",
+      "fat": "8g"
+    },
+    "food_ingredients": [
+      "Maize Meal",
+      "Beef",
+      "Tomato",
+      "Onions"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Zimbabwean",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_073",
+    "food_name": "Nshima with Ifisashi",
+    "food_description": "Maize meal with peanut-leaf vegetable stew.",
+    "food_calories_per_serving": 371,
+    "food_nutritional_factors": {
+      "carbohydrates": "29g",
+      "protein": "35g",
+      "fat": "14g"
+    },
+    "food_ingredients": [
+      "Maize Meal",
+      "Peanuts",
+      "Leafy Greens"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber; rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Zambian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_074",
+    "food_name": "Nsima with Chambo",
+    "food_description": "Maize porridge served with grilled chambo fish.",
+    "food_calories_per_serving": 435,
+    "food_nutritional_factors": {
+      "carbohydrates": "64g",
+      "protein": "20g",
+      "fat": "12g"
+    },
+    "food_ingredients": [
+      "Maize Meal",
+      "Chambo",
+      "Tomato Relish"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Grilling",
+    "cuisine_type": "Malawian",
+    "food_features": {
+      "taste": "smoky and savory",
+      "texture": "tender with char",
+      "appearance": "browned and glistening",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_075",
+    "food_name": "Piri Piri Chicken",
+    "food_description": "Grilled chicken marinated in piri piri sauce.",
+    "food_calories_per_serving": 481,
+    "food_nutritional_factors": {
+      "carbohydrates": "65g",
+      "protein": "16g",
+      "fat": "19g"
+    },
+    "food_ingredients": [
+      "Chicken",
+      "Piri Piri",
+      "Garlic",
+      "Lemon"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Grilling",
+    "cuisine_type": "Mozambican",
+    "food_features": {
+      "taste": "smoky and savory",
+      "texture": "tender with char",
+      "appearance": "browned and glistening",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_076",
+    "food_name": "Kapana",
+    "food_description": "Street-style grilled beef strips served with salsa.",
+    "food_calories_per_serving": 518,
+    "food_nutritional_factors": {
+      "carbohydrates": "63g",
+      "protein": "19g",
+      "fat": "23g"
+    },
+    "food_ingredients": [
+      "Beef",
+      "Salt",
+      "Chili",
+      "Onions"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Grilling",
+    "cuisine_type": "Namibian",
+    "food_features": {
+      "taste": "smoky and savory",
+      "texture": "tender with char",
+      "appearance": "browned and glistening",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_077",
+    "food_name": "Seswaa",
+    "food_description": "Slow-cooked pounded beef served over pap.",
+    "food_calories_per_serving": 362,
+    "food_nutritional_factors": {
+      "carbohydrates": "32g",
+      "protein": "11g",
+      "fat": "23g"
+    },
+    "food_ingredients": [
+      "Beef",
+      "Salt",
+      "Onions"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Boiling",
+    "cuisine_type": "Botswanan",
+    "food_features": {
+      "taste": "light and savory",
+      "texture": "soft and brothy",
+      "appearance": "clear or lightly colored",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_078",
+    "food_name": "Motoho",
+    "food_description": "Fermented sorghum porridge served with sour milk.",
+    "food_calories_per_serving": 498,
+    "food_nutritional_factors": {
+      "carbohydrates": "54g",
+      "protein": "23g",
+      "fat": "23g"
+    },
+    "food_ingredients": [
+      "Sorghum",
+      "Sour Milk",
+      "Sugar"
+    ],
+    "food_health_benefits": "Gluten-free grains and iron rich",
+    "cooking_method": "Boiling",
+    "cuisine_type": "Lesotho",
+    "food_features": {
+      "taste": "light and savory",
+      "texture": "soft and brothy",
+      "appearance": "clear or lightly colored",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_079",
+    "food_name": "Sishwala with Umncweba",
+    "food_description": "Maize meal with dried meat relish.",
+    "food_calories_per_serving": 315,
+    "food_nutritional_factors": {
+      "carbohydrates": "44g",
+      "protein": "10g",
+      "fat": "12g"
+    },
+    "food_ingredients": [
+      "Maize Meal",
+      "Dried Meat",
+      "Tomato"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Eswatini",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_080",
+    "food_name": "Rougaille Saucisse",
+    "food_description": "Tomato-based Creole sausage stew.",
+    "food_calories_per_serving": 397,
+    "food_nutritional_factors": {
+      "carbohydrates": "31g",
+      "protein": "31g",
+      "fat": "18g"
+    },
+    "food_ingredients": [
+      "Sausage",
+      "Tomatoes",
+      "Onions",
+      "Thyme"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Mauritian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_081",
+    "food_name": "Octopus Curry",
+    "food_description": "Coconut milk curry with tender octopus.",
+    "food_calories_per_serving": 542,
+    "food_nutritional_factors": {
+      "carbohydrates": "72g",
+      "protein": "16g",
+      "fat": "23g"
+    },
+    "food_ingredients": [
+      "Octopus",
+      "Coconut Milk",
+      "Curry Leaves"
+    ],
+    "food_health_benefits": "Source of omega-3 fatty acids",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Seychellois",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_082",
+    "food_name": "Romazava",
+    "food_description": "National dish of Madagascar: beef and brèdes stew.",
+    "food_calories_per_serving": 526,
+    "food_nutritional_factors": {
+      "carbohydrates": "69g",
+      "protein": "13g",
+      "fat": "24g"
+    },
+    "food_ingredients": [
+      "Beef",
+      "Brèdes",
+      "Tomatoes",
+      "Ginger"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Madagascan",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_083",
+    "food_name": "Langouste a la Vanille",
+    "food_description": "Lobster cooked with vanilla-infused sauce.",
+    "food_calories_per_serving": 358,
+    "food_nutritional_factors": {
+      "carbohydrates": "26g",
+      "protein": "14g",
+      "fat": "24g"
+    },
+    "food_ingredients": [
+      "Lobster",
+      "Vanilla",
+      "Cream",
+      "Butter"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Sautéing",
+    "cuisine_type": "Comorian",
+    "food_features": {
+      "taste": "umami and aromatic",
+      "texture": "tender-crisp",
+      "appearance": "glossy and colorful",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_084",
+    "food_name": "Calulu",
+    "food_description": "Fish or meat stew with vegetables and palm oil.",
+    "food_calories_per_serving": 447,
+    "food_nutritional_factors": {
+      "carbohydrates": "48g",
+      "protein": "12g",
+      "fat": "25g"
+    },
+    "food_ingredients": [
+      "Fish",
+      "Palm Oil",
+      "Tomato",
+      "Okra"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins; source of omega-3 fatty acids",
+    "cooking_method": "Stewing",
+    "cuisine_type": "São Toméan",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_085",
+    "food_name": "Ofada Stew (Ayamase) with Plantain",
+    "food_description": "Green pepper sauce with palm oil, iru, and assorted meats, served with ofada rice variant featuring plantain.",
+    "food_calories_per_serving": 528,
+    "food_nutritional_factors": {
+      "carbohydrates": "73g",
+      "protein": "24g",
+      "fat": "17g"
+    },
+    "food_ingredients": [
+      "Green Peppers",
+      "Palm Oil",
+      "Locust Beans",
+      "Assorted Meat",
+      "Onions",
+      "Plantain"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Sautéing",
+    "cuisine_type": "Yoruba",
+    "food_features": {
+      "taste": "umami and aromatic",
+      "texture": "tender-crisp",
+      "appearance": "glossy and colorful",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_086",
+    "food_name": "Langouste a la Vanille with Smoked Fish",
+    "food_description": "Lobster cooked with vanilla-infused sauce variant featuring smoked fish.",
+    "food_calories_per_serving": 372,
+    "food_nutritional_factors": {
+      "carbohydrates": "30g",
+      "protein": "30g",
+      "fat": "16g"
+    },
+    "food_ingredients": [
+      "Lobster",
+      "Vanilla",
+      "Cream",
+      "Butter",
+      "Smoked Fish"
+    ],
+    "food_health_benefits": "Source of omega-3 fatty acids",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Comorian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_087",
+    "food_name": "Thiebou Yapp with Goat Meat",
+    "food_description": "Rice cooked with beef and vegetables variant featuring goat meat.",
+    "food_calories_per_serving": 401,
+    "food_nutritional_factors": {
+      "carbohydrates": "48g",
+      "protein": "13g",
+      "fat": "19g"
+    },
+    "food_ingredients": [
+      "Rice",
+      "Beef",
+      "Carrots",
+      "Spices",
+      "Goat Meat"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Mauritanian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_088",
+    "food_name": "Banku with Tilapia Vegetarian",
+    "food_description": "Fermented corn-cassava dough served with grilled tilapia and pepper sauce variant featuring mushrooms, chickpeas.",
+    "food_calories_per_serving": 534,
+    "food_nutritional_factors": {
+      "carbohydrates": "59g",
+      "protein": "25g",
+      "fat": "24g"
+    },
+    "food_ingredients": [
+      "Corn Dough",
+      "Cassava Dough",
+      "Tilapia",
+      "Pepper Sauce",
+      "Mushrooms",
+      "Chickpeas"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber; source of omega-3 fatty acids",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Ghanaian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_089",
+    "food_name": "Moamba de Galinha Spicy",
+    "food_description": "Chicken in palm oil and okra sauce, served with funge variant featuring extra chili.",
+    "food_calories_per_serving": 543,
+    "food_nutritional_factors": {
+      "carbohydrates": "65g",
+      "protein": "15g",
+      "fat": "27g"
+    },
+    "food_ingredients": [
+      "Chicken",
+      "Palm Oil",
+      "Okra",
+      "Garlic",
+      "Extra Chili"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Angolan",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_090",
+    "food_name": "Dambu Nama with Groundnut",
+    "food_description": "Shredded spiced dried meat snack served with relishes variant featuring peanuts.",
+    "food_calories_per_serving": 461,
+    "food_nutritional_factors": {
+      "carbohydrates": "40g",
+      "protein": "34g",
+      "fat": "20g"
+    },
+    "food_ingredients": [
+      "Beef",
+      "Spices",
+      "Groundnut Oil",
+      "Peanuts"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Gbagyi",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_091",
+    "food_name": "Kelewele with Pumpkin",
+    "food_description": "Spiced fried plantains with ginger, chili, and cloves variant featuring pumpkin.",
+    "food_calories_per_serving": 434,
+    "food_nutritional_factors": {
+      "carbohydrates": "37g",
+      "protein": "24g",
+      "fat": "23g"
+    },
+    "food_ingredients": [
+      "Plantain",
+      "Ginger",
+      "Chili",
+      "Cloves",
+      "Oil",
+      "Pumpkin"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Ghanaian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_092",
+    "food_name": "Isombe with Okra",
+    "food_description": "Cassava leaves cooked with peanut butter and spices variant featuring okra.",
+    "food_calories_per_serving": 382,
+    "food_nutritional_factors": {
+      "carbohydrates": "71g",
+      "protein": "8g",
+      "fat": "8g"
+    },
+    "food_ingredients": [
+      "Cassava Leaves",
+      "Peanut Butter",
+      "Onions",
+      "Okra"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber; rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Rwandan",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_093",
+    "food_name": "Pâte Rouge Coconut",
+    "food_description": "Cornmeal paste served with red palm oil sauce variant featuring coconut milk.",
+    "food_calories_per_serving": 399,
+    "food_nutritional_factors": {
+      "carbohydrates": "55g",
+      "protein": "16g",
+      "fat": "14g"
+    },
+    "food_ingredients": [
+      "Cornmeal",
+      "Palm Oil",
+      "Tomato",
+      "Spices",
+      "Coconut Milk"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Beninese",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_094",
+    "food_name": "Motoho with Garden Eggs",
+    "food_description": "Fermented sorghum porridge served with sour milk variant featuring garden egg.",
+    "food_calories_per_serving": 433,
+    "food_nutritional_factors": {
+      "carbohydrates": "47g",
+      "protein": "22g",
+      "fat": "19g"
+    },
+    "food_ingredients": [
+      "Sorghum",
+      "Sour Milk",
+      "Sugar",
+      "Garden Egg"
+    ],
+    "food_health_benefits": "Gluten-free grains and iron rich",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Lesotho",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_095",
+    "food_name": "Mukeke with Ugali with Plantain",
+    "food_description": "Lake Tanganyika fish (mukeke) grilled and served with ugali variant featuring plantain.",
+    "food_calories_per_serving": 271,
+    "food_nutritional_factors": {
+      "carbohydrates": "30g",
+      "protein": "15g",
+      "fat": "11g"
+    },
+    "food_ingredients": [
+      "Fish",
+      "Maize Flour",
+      "Spices",
+      "Plantain"
+    ],
+    "food_health_benefits": "Source of omega-3 fatty acids",
+    "cooking_method": "Sautéing",
+    "cuisine_type": "Burundian",
+    "food_features": {
+      "taste": "umami and aromatic",
+      "texture": "tender-crisp",
+      "appearance": "glossy and colorful",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_096",
+    "food_name": "Kelewele with Smoked Fish",
+    "food_description": "Spiced fried plantains with ginger, chili, and cloves variant featuring smoked fish.",
+    "food_calories_per_serving": 425,
+    "food_nutritional_factors": {
+      "carbohydrates": "55g",
+      "protein": "14g",
+      "fat": "18g"
+    },
+    "food_ingredients": [
+      "Plantain",
+      "Ginger",
+      "Chili",
+      "Cloves",
+      "Oil",
+      "Smoked Fish"
+    ],
+    "food_health_benefits": "Source of omega-3 fatty acids",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Ghanaian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_097",
+    "food_name": "Afang Soup with Goat Meat",
+    "food_description": "Okazi and waterleaf soup with seafood/meat variant featuring goat meat.",
+    "food_calories_per_serving": 551,
+    "food_nutritional_factors": {
+      "carbohydrates": "55g",
+      "protein": "27g",
+      "fat": "27g"
+    },
+    "food_ingredients": [
+      "Okazi Leaves",
+      "Waterleaf",
+      "Palm Oil",
+      "Crayfish",
+      "Goat Meat"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins; rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Ibibio",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_098",
+    "food_name": "Egusi Soup Vegetarian",
+    "food_description": "A Yoruba soup made with ground melon seeds, palm oil, leafy greens, and assorted proteins variant featuring mushrooms, chickpeas.",
+    "food_calories_per_serving": 489,
+    "food_nutritional_factors": {
+      "carbohydrates": "55g",
+      "protein": "28g",
+      "fat": "19g"
+    },
+    "food_ingredients": [
+      "Melon Seeds",
+      "Palm Oil",
+      "Leafy Greens",
+      "Assorted Meat",
+      "Crayfish",
+      "Seasoning",
+      "Mushrooms",
+      "Chickpeas"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber; provides fat-soluble vitamins; rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Yoruba",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_099",
+    "food_name": "Langouste a la Vanille Spicy",
+    "food_description": "Lobster cooked with vanilla-infused sauce variant featuring extra chili.",
+    "food_calories_per_serving": 347,
+    "food_nutritional_factors": {
+      "carbohydrates": "30g",
+      "protein": "34g",
+      "fat": "11g"
+    },
+    "food_ingredients": [
+      "Lobster",
+      "Vanilla",
+      "Cream",
+      "Butter",
+      "Extra Chili"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Comorian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_100",
+    "food_name": "Shiro with Groundnut",
+    "food_description": "Chickpea flour stew simmered with spices; served with injera variant featuring peanuts.",
+    "food_calories_per_serving": 535,
+    "food_nutritional_factors": {
+      "carbohydrates": "75g",
+      "protein": "30g",
+      "fat": "14g"
+    },
+    "food_ingredients": [
+      "Chickpea Flour",
+      "Onions",
+      "Spices",
+      "Oil",
+      "Peanuts"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Ethiopian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_101",
+    "food_name": "Chakhchoukha with Pumpkin",
+    "food_description": "Shredded flatbread soaked in spicy tomato stew variant featuring pumpkin.",
+    "food_calories_per_serving": 459,
+    "food_nutritional_factors": {
+      "carbohydrates": "36g",
+      "protein": "21g",
+      "fat": "28g"
+    },
+    "food_ingredients": [
+      "Flatbread",
+      "Tomato",
+      "Lamb",
+      "Spices",
+      "Pumpkin"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Algerian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_102",
+    "food_name": "Moamba de Galinha with Okra",
+    "food_description": "Chicken in palm oil and okra sauce, served with funge variant featuring okra.",
+    "food_calories_per_serving": 417,
+    "food_nutritional_factors": {
+      "carbohydrates": "30g",
+      "protein": "33g",
+      "fat": "20g"
+    },
+    "food_ingredients": [
+      "Chicken",
+      "Palm Oil",
+      "Okra",
+      "Garlic"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Angolan",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_103",
+    "food_name": "Chicken Tagine with Preserved Lemon Coconut",
+    "food_description": "Slow-cooked tagine with olives and preserved lemons variant featuring coconut milk.",
+    "food_calories_per_serving": 406,
+    "food_nutritional_factors": {
+      "carbohydrates": "50g",
+      "protein": "31g",
+      "fat": "10g"
+    },
+    "food_ingredients": [
+      "Chicken",
+      "Preserved Lemons",
+      "Olives",
+      "Spices",
+      "Coconut Milk"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Moroccan",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_104",
+    "food_name": "Genger (Sesame Soup) with Garden Eggs",
+    "food_description": "Nutty soup thickened with ground sesame seeds variant featuring garden egg.",
+    "food_calories_per_serving": 254,
+    "food_nutritional_factors": {
+      "carbohydrates": "35g",
+      "protein": "12g",
+      "fat": "8g"
+    },
+    "food_ingredients": [
+      "Sesame Seeds",
+      "Palm Oil",
+      "Meat",
+      "Crayfish",
+      "Garden Egg"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Tiv",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_105",
+    "food_name": "Black Soup (Omoebe) with Plantain",
+    "food_description": "Dark herbal soup made from ground bitter leaves and scent leaves variant featuring plantain.",
+    "food_calories_per_serving": 567,
+    "food_nutritional_factors": {
+      "carbohydrates": "62g",
+      "protein": "22g",
+      "fat": "28g"
+    },
+    "food_ingredients": [
+      "Bitter Leaves",
+      "Scent Leaves",
+      "Palm Oil",
+      "Meat/Fish",
+      "Plantain"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Sautéing",
+    "cuisine_type": "Edo",
+    "food_features": {
+      "taste": "umami and aromatic",
+      "texture": "tender-crisp",
+      "appearance": "glossy and colorful",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_106",
+    "food_name": "Fisherman Soup with Smoked Fish",
+    "food_description": "Seafood-rich spicy soup common in the Niger Delta variant featuring smoked fish.",
+    "food_calories_per_serving": 615,
+    "food_nutritional_factors": {
+      "carbohydrates": "64g",
+      "protein": "34g",
+      "fat": "27g"
+    },
+    "food_ingredients": [
+      "Crab",
+      "Prawn",
+      "Fish",
+      "Palm Oil",
+      "Pepper",
+      "Smoked Fish"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins; source of omega-3 fatty acids",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Ijaw",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_107",
+    "food_name": "Couscous Tfaya with Goat Meat",
+    "food_description": "Couscous topped with caramelized onions and raisins, served with stew variant featuring goat meat.",
+    "food_calories_per_serving": 443,
+    "food_nutritional_factors": {
+      "carbohydrates": "67g",
+      "protein": "19g",
+      "fat": "12g"
+    },
+    "food_ingredients": [
+      "Couscous",
+      "Onions",
+      "Raisins",
+      "Chickpeas",
+      "Goat Meat"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Moroccan",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_108",
+    "food_name": "Chakalaka Vegetarian",
+    "food_description": "Spicy vegetable relish often served with pap variant featuring mushrooms, chickpeas.",
+    "food_calories_per_serving": 354,
+    "food_nutritional_factors": {
+      "carbohydrates": "60g",
+      "protein": "12g",
+      "fat": "8g"
+    },
+    "food_ingredients": [
+      "Cabbage",
+      "Carrots",
+      "Tomatoes",
+      "Chili",
+      "Mushrooms",
+      "Chickpeas"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber",
+    "cooking_method": "Stewing",
+    "cuisine_type": "South African",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_109",
+    "food_name": "Efo Riro Spicy",
+    "food_description": "Spinach stew with tomatoes, peppers, palm oil, and assorted proteins variant featuring extra chili.",
+    "food_calories_per_serving": 487,
+    "food_nutritional_factors": {
+      "carbohydrates": "71g",
+      "protein": "28g",
+      "fat": "11g"
+    },
+    "food_ingredients": [
+      "Spinach",
+      "Tomatoes",
+      "Red Peppers",
+      "Palm Oil",
+      "Fish or Meat",
+      "Onions",
+      "Extra Chili"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins; rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Yoruba",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_110",
+    "food_name": "Couscous with Camel Meat with Groundnut",
+    "food_description": "Couscous served with slow-cooked camel meat and vegetables variant featuring peanuts.",
+    "food_calories_per_serving": 509,
+    "food_nutritional_factors": {
+      "carbohydrates": "72g",
+      "protein": "12g",
+      "fat": "21g"
+    },
+    "food_ingredients": [
+      "Couscous",
+      "Camel Meat",
+      "Carrots",
+      "Spices",
+      "Peanuts"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Sahrawi",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_111",
+    "food_name": "Dambu Nama with Pumpkin",
+    "food_description": "Shredded spiced dried meat snack served with relishes variant featuring pumpkin.",
+    "food_calories_per_serving": 316,
+    "food_nutritional_factors": {
+      "carbohydrates": "38g",
+      "protein": "8g",
+      "fat": "16g"
+    },
+    "food_ingredients": [
+      "Beef",
+      "Spices",
+      "Groundnut Oil",
+      "Pumpkin"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Gbagyi",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_112",
+    "food_name": "Waakye with Okra",
+    "food_description": "Rice and beans cooked with waakye leaves, served with sides variant featuring okra.",
+    "food_calories_per_serving": 392,
+    "food_nutritional_factors": {
+      "carbohydrates": "43g",
+      "protein": "24g",
+      "fat": "15g"
+    },
+    "food_ingredients": [
+      "Rice",
+      "Black-eyed Peas",
+      "Waakye Leaves",
+      "Spices",
+      "Okra"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Ghanaian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_113",
+    "food_name": "Kapana Coconut",
+    "food_description": "Street-style grilled beef strips served with salsa variant featuring coconut milk.",
+    "food_calories_per_serving": 451,
+    "food_nutritional_factors": {
+      "carbohydrates": "45g",
+      "protein": "16g",
+      "fat": "25g"
+    },
+    "food_ingredients": [
+      "Beef",
+      "Salt",
+      "Chili",
+      "Onions",
+      "Coconut Milk"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Namibian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_114",
+    "food_name": "Githeri with Garden Eggs",
+    "food_description": "Stewed maize and beans staple variant featuring garden egg.",
+    "food_calories_per_serving": 325,
+    "food_nutritional_factors": {
+      "carbohydrates": "33g",
+      "protein": "9g",
+      "fat": "19g"
+    },
+    "food_ingredients": [
+      "Maize",
+      "Beans",
+      "Tomato",
+      "Onions",
+      "Garden Egg"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Kenyan",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_115",
+    "food_name": "Kitfo with Plantain",
+    "food_description": "Ethiopian minced beef seasoned with mitmita (usually lightly cooked) variant featuring plantain.",
+    "food_calories_per_serving": 570,
+    "food_nutritional_factors": {
+      "carbohydrates": "67g",
+      "protein": "26g",
+      "fat": "24g"
+    },
+    "food_ingredients": [
+      "Beef",
+      "Mitmita",
+      "Niter Kibbeh",
+      "Plantain"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Sautéing",
+    "cuisine_type": "Ethiopian",
+    "food_features": {
+      "taste": "umami and aromatic",
+      "texture": "tender-crisp",
+      "appearance": "glossy and colorful",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_116",
+    "food_name": "Githeri with Smoked Fish",
+    "food_description": "Stewed maize and beans staple variant featuring smoked fish.",
+    "food_calories_per_serving": 483,
+    "food_nutritional_factors": {
+      "carbohydrates": "57g",
+      "protein": "12g",
+      "fat": "25g"
+    },
+    "food_ingredients": [
+      "Maize",
+      "Beans",
+      "Tomato",
+      "Onions",
+      "Smoked Fish"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber; source of omega-3 fatty acids",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Kenyan",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_117",
+    "food_name": "Black Soup (Omoebe) with Goat Meat",
+    "food_description": "Dark herbal soup made from ground bitter leaves and scent leaves variant featuring goat meat.",
+    "food_calories_per_serving": 394,
+    "food_nutritional_factors": {
+      "carbohydrates": "58g",
+      "protein": "24g",
+      "fat": "8g"
+    },
+    "food_ingredients": [
+      "Bitter Leaves",
+      "Scent Leaves",
+      "Palm Oil",
+      "Meat/Fish",
+      "Goat Meat"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Edo",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_118",
+    "food_name": "Kisra with Mullah Vegetarian",
+    "food_description": "Sorghum flatbread with rich meat/okra stew variant featuring mushrooms, chickpeas.",
+    "food_calories_per_serving": 571,
+    "food_nutritional_factors": {
+      "carbohydrates": "74g",
+      "protein": "13g",
+      "fat": "27g"
+    },
+    "food_ingredients": [
+      "Sorghum",
+      "Okra",
+      "Meat",
+      "Spices",
+      "Mushrooms",
+      "Chickpeas"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber; gluten-free grains and iron rich",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Sudanese",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_119",
+    "food_name": "Egusi Soup Spicy",
+    "food_description": "A Yoruba soup made with ground melon seeds, palm oil, leafy greens, and assorted proteins variant featuring extra chili.",
+    "food_calories_per_serving": 527,
+    "food_nutritional_factors": {
+      "carbohydrates": "74g",
+      "protein": "33g",
+      "fat": "12g"
+    },
+    "food_ingredients": [
+      "Melon Seeds",
+      "Palm Oil",
+      "Leafy Greens",
+      "Assorted Meat",
+      "Crayfish",
+      "Seasoning",
+      "Extra Chili"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins; rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Yoruba",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_120",
+    "food_name": "Miyan Karkashi with Groundnut",
+    "food_description": "Soup made with karkashi leaves and local spices variant featuring peanuts.",
+    "food_calories_per_serving": 451,
+    "food_nutritional_factors": {
+      "carbohydrates": "34g",
+      "protein": "23g",
+      "fat": "27g"
+    },
+    "food_ingredients": [
+      "Karkashi Leaves",
+      "Meat",
+      "Spices",
+      "Palm Oil",
+      "Peanuts"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber; provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Kanuri",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_121",
+    "food_name": "Afang Soup with Pumpkin",
+    "food_description": "Delicate soup made with afang (okazi) and waterleaf variant featuring pumpkin.",
+    "food_calories_per_serving": 425,
+    "food_nutritional_factors": {
+      "carbohydrates": "60g",
+      "protein": "9g",
+      "fat": "18g"
+    },
+    "food_ingredients": [
+      "Okazi Leaves",
+      "Waterleaf",
+      "Palm Oil",
+      "Periwinkle",
+      "Crayfish",
+      "Pumpkin"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins; rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Efik",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_122",
+    "food_name": "Thiebou Yapp with Okra",
+    "food_description": "Rice cooked with beef and vegetables variant featuring okra.",
+    "food_calories_per_serving": 522,
+    "food_nutritional_factors": {
+      "carbohydrates": "58g",
+      "protein": "25g",
+      "fat": "23g"
+    },
+    "food_ingredients": [
+      "Rice",
+      "Beef",
+      "Carrots",
+      "Spices",
+      "Okra"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Mauritanian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_123",
+    "food_name": "Fura da Nono Coconut",
+    "food_description": "Millet balls served in fermented cow milk (nono) variant featuring coconut milk.",
+    "food_calories_per_serving": 400,
+    "food_nutritional_factors": {
+      "carbohydrates": "60g",
+      "protein": "9g",
+      "fat": "15g"
+    },
+    "food_ingredients": [
+      "Millet",
+      "Fermented Milk",
+      "Sugar",
+      "Coconut Milk"
+    ],
+    "food_health_benefits": "Gluten-free grains and iron rich",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Fulani",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_124",
+    "food_name": "Dambu Nama with Garden Eggs",
+    "food_description": "Shredded spiced dried meat snack served with relishes variant featuring garden egg.",
+    "food_calories_per_serving": 295,
+    "food_nutritional_factors": {
+      "carbohydrates": "42g",
+      "protein": "9g",
+      "fat": "11g"
+    },
+    "food_ingredients": [
+      "Beef",
+      "Spices",
+      "Groundnut Oil",
+      "Garden Egg"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Gbagyi",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_125",
+    "food_name": "Koshari with Plantain",
+    "food_description": "Rice, lentils, pasta topped with spicy tomato sauce and crispy onions variant featuring plantain.",
+    "food_calories_per_serving": 378,
+    "food_nutritional_factors": {
+      "carbohydrates": "53g",
+      "protein": "25g",
+      "fat": "8g"
+    },
+    "food_ingredients": [
+      "Rice",
+      "Lentils",
+      "Pasta",
+      "Tomato",
+      "Onions",
+      "Plantain"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber",
+    "cooking_method": "Sautéing",
+    "cuisine_type": "Egyptian",
+    "food_features": {
+      "taste": "umami and aromatic",
+      "texture": "tender-crisp",
+      "appearance": "glossy and colorful",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_126",
+    "food_name": "Ofe Akwu (Banga Stew) with Smoked Fish",
+    "food_description": "Palm fruit stew cooked with spices and proteins variant featuring smoked fish.",
+    "food_calories_per_serving": 507,
+    "food_nutritional_factors": {
+      "carbohydrates": "53g",
+      "protein": "18g",
+      "fat": "27g"
+    },
+    "food_ingredients": [
+      "Palm Fruit Extract",
+      "Beef or Fish",
+      "Spices",
+      "Onions",
+      "Smoked Fish"
+    ],
+    "food_health_benefits": "Source of omega-3 fatty acids",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Igbo",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_127",
+    "food_name": "Koshari with Goat Meat",
+    "food_description": "Rice, lentils, pasta topped with spicy tomato sauce and crispy onions variant featuring goat meat.",
+    "food_calories_per_serving": 463,
+    "food_nutritional_factors": {
+      "carbohydrates": "63g",
+      "protein": "24g",
+      "fat": "14g"
+    },
+    "food_ingredients": [
+      "Rice",
+      "Lentils",
+      "Pasta",
+      "Tomato",
+      "Onions",
+      "Goat Meat"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Egyptian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_128",
+    "food_name": "Pâte Rouge Vegetarian",
+    "food_description": "Cornmeal paste served with red palm oil sauce variant featuring mushrooms, chickpeas.",
+    "food_calories_per_serving": 515,
+    "food_nutritional_factors": {
+      "carbohydrates": "53g",
+      "protein": "24g",
+      "fat": "25g"
+    },
+    "food_ingredients": [
+      "Cornmeal",
+      "Palm Oil",
+      "Tomato",
+      "Spices",
+      "Mushrooms",
+      "Chickpeas"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber; provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Beninese",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_129",
+    "food_name": "Chakhchoukha Spicy",
+    "food_description": "Shredded flatbread soaked in spicy tomato stew variant featuring extra chili.",
+    "food_calories_per_serving": 486,
+    "food_nutritional_factors": {
+      "carbohydrates": "57g",
+      "protein": "15g",
+      "fat": "24g"
+    },
+    "food_ingredients": [
+      "Flatbread",
+      "Tomato",
+      "Lamb",
+      "Spices",
+      "Extra Chili"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Algerian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_130",
+    "food_name": "Jollof Rice with Groundnut",
+    "food_description": "Tomato-pepper rice with spices and proteins variant featuring peanuts.",
+    "food_calories_per_serving": 478,
+    "food_nutritional_factors": {
+      "carbohydrates": "60g",
+      "protein": "14g",
+      "fat": "22g"
+    },
+    "food_ingredients": [
+      "Rice",
+      "Tomatoes",
+      "Peppers",
+      "Spices",
+      "Peanuts"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Liberian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_131",
+    "food_name": "Banga Soup with Pumpkin",
+    "food_description": "Palm fruit soup with fresh spices and seafood/meat variant featuring pumpkin.",
+    "food_calories_per_serving": 413,
+    "food_nutritional_factors": {
+      "carbohydrates": "51g",
+      "protein": "11g",
+      "fat": "20g"
+    },
+    "food_ingredients": [
+      "Palm Fruit Extract",
+      "Spices",
+      "Seafood",
+      "Beef",
+      "Pumpkin"
+    ],
+    "food_health_benefits": "Source of omega-3 fatty acids",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Itsekiri",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_132",
+    "food_name": "Kisra with Mullah with Okra",
+    "food_description": "Sorghum flatbread with rich meat/okra stew variant featuring okra.",
+    "food_calories_per_serving": 344,
+    "food_nutritional_factors": {
+      "carbohydrates": "45g",
+      "protein": "10g",
+      "fat": "15g"
+    },
+    "food_ingredients": [
+      "Sorghum",
+      "Okra",
+      "Meat",
+      "Spices"
+    ],
+    "food_health_benefits": "Gluten-free grains and iron rich",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Sudanese",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_133",
+    "food_name": "Zanzibar Biryani Coconut",
+    "food_description": "Fragrant spiced rice with meat or fish variant featuring coconut milk.",
+    "food_calories_per_serving": 312,
+    "food_nutritional_factors": {
+      "carbohydrates": "29g",
+      "protein": "14g",
+      "fat": "17g"
+    },
+    "food_ingredients": [
+      "Rice",
+      "Spices",
+      "Chicken or Fish",
+      "Yogurt",
+      "Coconut Milk"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Tanzanian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_134",
+    "food_name": "Afang Soup with Garden Eggs",
+    "food_description": "Delicate soup made with afang (okazi) and waterleaf variant featuring garden egg.",
+    "food_calories_per_serving": 575,
+    "food_nutritional_factors": {
+      "carbohydrates": "74g",
+      "protein": "12g",
+      "fat": "28g"
+    },
+    "food_ingredients": [
+      "Okazi Leaves",
+      "Waterleaf",
+      "Palm Oil",
+      "Periwinkle",
+      "Crayfish",
+      "Garden Egg"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins; rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Efik",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_135",
+    "food_name": "Mukeke with Ugali with Plantain",
+    "food_description": "Lake Tanganyika fish (mukeke) grilled and served with ugali variant featuring plantain.",
+    "food_calories_per_serving": 299,
+    "food_nutritional_factors": {
+      "carbohydrates": "34g",
+      "protein": "16g",
+      "fat": "12g"
+    },
+    "food_ingredients": [
+      "Fish",
+      "Maize Flour",
+      "Spices",
+      "Plantain"
+    ],
+    "food_health_benefits": "Source of omega-3 fatty acids",
+    "cooking_method": "Sautéing",
+    "cuisine_type": "Burundian",
+    "food_features": {
+      "taste": "umami and aromatic",
+      "texture": "tender-crisp",
+      "appearance": "glossy and colorful",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_136",
+    "food_name": "Chicken Tagine with Preserved Lemon with Smoked Fish",
+    "food_description": "Slow-cooked tagine with olives and preserved lemons variant featuring smoked fish.",
+    "food_calories_per_serving": 371,
+    "food_nutritional_factors": {
+      "carbohydrates": "39g",
+      "protein": "31g",
+      "fat": "11g"
+    },
+    "food_ingredients": [
+      "Chicken",
+      "Preserved Lemons",
+      "Olives",
+      "Spices",
+      "Smoked Fish"
+    ],
+    "food_health_benefits": "Source of omega-3 fatty acids",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Moroccan",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_137",
+    "food_name": "Zigni with Goat Meat",
+    "food_description": "Spicy beef stew served with injera variant featuring goat meat.",
+    "food_calories_per_serving": 400,
+    "food_nutritional_factors": {
+      "carbohydrates": "56g",
+      "protein": "13g",
+      "fat": "15g"
+    },
+    "food_ingredients": [
+      "Beef",
+      "Berbere",
+      "Tomato",
+      "Onions",
+      "Goat Meat"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Eritrean",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_138",
+    "food_name": "Genger (Sesame Soup) Vegetarian",
+    "food_description": "Nutty soup thickened with ground sesame seeds variant featuring mushrooms, chickpeas.",
+    "food_calories_per_serving": 562,
+    "food_nutritional_factors": {
+      "carbohydrates": "70g",
+      "protein": "21g",
+      "fat": "24g"
+    },
+    "food_ingredients": [
+      "Sesame Seeds",
+      "Palm Oil",
+      "Meat",
+      "Crayfish",
+      "Mushrooms",
+      "Chickpeas"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber; provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Tiv",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_139",
+    "food_name": "Bariis Iskukaris Spicy",
+    "food_description": "Somali-style spiced rice often served with meat variant featuring extra chili.",
+    "food_calories_per_serving": 383,
+    "food_nutritional_factors": {
+      "carbohydrates": "46g",
+      "protein": "21g",
+      "fat": "14g"
+    },
+    "food_ingredients": [
+      "Rice",
+      "Xawaash Spice",
+      "Raisins",
+      "Meat",
+      "Extra Chili"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Somali",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_140",
+    "food_name": "Isombe with Groundnut",
+    "food_description": "Cassava leaves cooked with peanut butter and spices variant featuring peanuts.",
+    "food_calories_per_serving": 377,
+    "food_nutritional_factors": {
+      "carbohydrates": "45g",
+      "protein": "10g",
+      "fat": "19g"
+    },
+    "food_ingredients": [
+      "Cassava Leaves",
+      "Peanut Butter",
+      "Onions",
+      "Peanuts"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber; rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Rwandan",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_141",
+    "food_name": "Asaro (Yam Porridge) with Pumpkin",
+    "food_description": "Mashed yam cooked in pepper sauce with palm oil and spices variant featuring pumpkin.",
+    "food_calories_per_serving": 466,
+    "food_nutritional_factors": {
+      "carbohydrates": "46g",
+      "protein": "25g",
+      "fat": "22g"
+    },
+    "food_ingredients": [
+      "Yam",
+      "Palm Oil",
+      "Tomatoes",
+      "Peppers",
+      "Onions",
+      "Seasoning",
+      "Pumpkin"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Yoruba",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_142",
+    "food_name": "Kisra with Mullah with Okra",
+    "food_description": "Sorghum flatbread with rich meat/okra stew variant featuring okra.",
+    "food_calories_per_serving": 477,
+    "food_nutritional_factors": {
+      "carbohydrates": "70g",
+      "protein": "8g",
+      "fat": "20g"
+    },
+    "food_ingredients": [
+      "Sorghum",
+      "Okra",
+      "Meat",
+      "Spices"
+    ],
+    "food_health_benefits": "Gluten-free grains and iron rich",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Sudanese",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_143",
+    "food_name": "Moamba de Galinha Coconut",
+    "food_description": "Chicken in palm oil and okra sauce, served with funge variant featuring coconut milk.",
+    "food_calories_per_serving": 480,
+    "food_nutritional_factors": {
+      "carbohydrates": "58g",
+      "protein": "27g",
+      "fat": "17g"
+    },
+    "food_ingredients": [
+      "Chicken",
+      "Palm Oil",
+      "Okra",
+      "Garlic",
+      "Coconut Milk"
+    ],
+    "food_health_benefits": "Provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Angolan",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_144",
+    "food_name": "Molokhia with Garden Eggs",
+    "food_description": "Jute leaf soup with garlic and coriander, served with rice variant featuring garden egg.",
+    "food_calories_per_serving": 284,
+    "food_nutritional_factors": {
+      "carbohydrates": "29g",
+      "protein": "11g",
+      "fat": "15g"
+    },
+    "food_ingredients": [
+      "Molokhia Leaves",
+      "Garlic",
+      "Coriander",
+      "Chicken Stock",
+      "Garden Egg"
+    ],
+    "food_health_benefits": "Rich in vitamins a and c",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Egyptian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_145",
+    "food_name": "Fura da Nono with Plantain",
+    "food_description": "Millet balls served in fermented cow milk (nono) variant featuring plantain.",
+    "food_calories_per_serving": 316,
+    "food_nutritional_factors": {
+      "carbohydrates": "30g",
+      "protein": "16g",
+      "fat": "16g"
+    },
+    "food_ingredients": [
+      "Millet",
+      "Fermented Milk",
+      "Sugar",
+      "Plantain"
+    ],
+    "food_health_benefits": "Gluten-free grains and iron rich",
+    "cooking_method": "Sautéing",
+    "cuisine_type": "Fulani",
+    "food_features": {
+      "taste": "umami and aromatic",
+      "texture": "tender-crisp",
+      "appearance": "glossy and colorful",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_146",
+    "food_name": "Ewedu Soup with Smoked Fish",
+    "food_description": "Jute leaf soup blended and simmered with spices; commonly served with amala variant featuring smoked fish.",
+    "food_calories_per_serving": 480,
+    "food_nutritional_factors": {
+      "carbohydrates": "74g",
+      "protein": "13g",
+      "fat": "16g"
+    },
+    "food_ingredients": [
+      "Jute Leaves",
+      "Crayfish",
+      "Seasoning",
+      "Locust Beans",
+      "Smoked Fish"
+    ],
+    "food_health_benefits": "Source of omega-3 fatty acids",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Yoruba",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_147",
+    "food_name": "Ukodo (Plantain/Yam Pepper Soup) with Goat Meat",
+    "food_description": "Pepper soup with yam or plantain and assorted proteins variant featuring goat meat.",
+    "food_calories_per_serving": 480,
+    "food_nutritional_factors": {
+      "carbohydrates": "52g",
+      "protein": "35g",
+      "fat": "16g"
+    },
+    "food_ingredients": [
+      "Yam or Plantain",
+      "Pepper Soup Spice",
+      "Fish or Meat",
+      "Goat Meat"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Urhobo",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_148",
+    "food_name": "Bariis Iskukaris Vegetarian",
+    "food_description": "Somali-style spiced rice often served with meat variant featuring mushrooms, chickpeas.",
+    "food_calories_per_serving": 434,
+    "food_nutritional_factors": {
+      "carbohydrates": "34g",
+      "protein": "25g",
+      "fat": "24g"
+    },
+    "food_ingredients": [
+      "Rice",
+      "Xawaash Spice",
+      "Raisins",
+      "Meat",
+      "Mushrooms",
+      "Chickpeas"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Somali",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_149",
+    "food_name": "Nsima with Chambo Spicy",
+    "food_description": "Maize porridge served with grilled chambo fish variant featuring extra chili.",
+    "food_calories_per_serving": 493,
+    "food_nutritional_factors": {
+      "carbohydrates": "56g",
+      "protein": "30g",
+      "fat": "18g"
+    },
+    "food_ingredients": [
+      "Maize Meal",
+      "Chambo",
+      "Tomato Relish",
+      "Extra Chili"
+    ],
+    "food_health_benefits": "Balanced macronutrients and micronutrients",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Malawian",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": "africa_150",
+    "food_name": "Tuwo Shinkafa with Miyan Taushe with Groundnut",
+    "food_description": "Soft rice swallow served with pumpkin-based soup variant featuring peanuts.",
+    "food_calories_per_serving": 311,
+    "food_nutritional_factors": {
+      "carbohydrates": "42g",
+      "protein": "9g",
+      "fat": "13g"
+    },
+    "food_ingredients": [
+      "Rice",
+      "Pumpkin",
+      "Peanuts",
+      "Palm Oil",
+      "Spices"
+    ],
+    "food_health_benefits": "High in plant-based protein and fiber; provides fat-soluble vitamins",
+    "cooking_method": "Stewing",
+    "cuisine_type": "Hausa",
+    "food_features": {
+      "taste": "savory and spicy",
+      "texture": "thick and saucy",
+      "appearance": "vibrant and chunky",
+      "preparation": "cooked",
+      "serving_type": "hot"
+    }
+  }
+]
